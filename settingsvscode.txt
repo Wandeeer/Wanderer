@@ -1,0 +1,33 @@
+{
+    "editor.matchBrackets": false,
+    "symbols.hidesExplorerArrows": false,
+    "vscode_custom_css.imports": [
+        "file:///C:/Users/User/CustomCss/custom-vscode.css",
+        "file:///C:/Users/User/CustomCss/custom-vscode-script.js",
+        "file:///c:/Users/User/.vscode/extensions/brandonkirbyson.vscode-animations-2.0.3/dist/updateHandler.js"
+    ],
+    "workbench.iconTheme": "vscode-jetbrains-icon-theme-2023-dark",
+    "workbench.colorTheme": "Min Dark",
+    "workbench.productIconTheme": "fluent-icons",
+    "editor.fontFamily": "JetBrains Mono",
+    "editor.fontSize": 13,
+    "editor.fontLigatures": true,
+    "window.commandCenter": false,
+    "workbench.layoutControl.enabled": false,
+    "editor.scrollbar.vertical": "hidden",
+    "editor.scrollbar.horizontal": "hidden",
+
+    // Mi configuracion
+    "window.zoomLevel": 1,
+    "editor.lineHeight": 1.8,
+    "editor.minimap.enabled": false,
+    "editor.cursorSmoothCaretAnimation": "on",
+    "editor.hideCursorInOverviewRuler": true,
+    "workbench.statusBar.visible": false,
+    "breadcrumbs.enabled": false,
+    "editor.rulers": [80, 120],
+    "editor.renderLineHighlight": "gutter",
+    "editor.cursorBlinking": "smooth",
+    "workbench.activityBar.location": "hidden",
+    "window.menuBarVisibility": "compact",
+}
